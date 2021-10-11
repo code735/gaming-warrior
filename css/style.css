@@ -79,8 +79,9 @@ header{
 /* Hero-Section*/
 
 .hero-section{
-    background: url(https://i.pinimg.com/originals/78/f2/f0/78f2f042957dfb86db9f437cca2aab09.gif);
-    background-position: -81px -52%;
+     background:url(https://thumbs.gfycat.com/AltruisticGenuineAustraliansilkyterrier-size_restricted.gif);
+    background-position:60% 0;
+    background-size: cover;
     color: var(--white);
     min-height: 650px;
 }
