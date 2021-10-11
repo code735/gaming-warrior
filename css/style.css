@@ -218,11 +218,11 @@ header{
 .new-block{
     background-image: url('https://www.looper.com/img/gallery/the-epic-canceled-batman-game-well-never-get-to-play/l-intro-1609169213.jpg') ;
     background-size: cover;
-
-}
+    background-position: 43%;
+  }
 
 .strat-block{
-    background-image: url('/images/background/far-cry.jpeg') ;
+    background-image: url('https://store-images.s-microsoft.com/image/apps.64306.71295133238032534.1de820af-1d18-49b2-9916-0df00df0df84.32f1093c-5db6-401c-b9ac-d0ff6434abb2') ;
     background-size: cover;
 }
 .race-block{
@@ -231,7 +231,7 @@ header{
     background-position-x: 61%;
 }
 .zombie-block{
-    background-image: url('/images/background/witcher.jpg') ;
+    background-image: url('https://i.pinimg.com/originals/54/bb/46/54bb4609d3b8fee7d7edcc37ed22843c.jpg') ;
     background-size: cover;
 }
  
